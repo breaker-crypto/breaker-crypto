@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @breaker-crypto
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming,social media,kali
+- 🌱 I’m currently learning python3,and other languages
 - 💞️ I’m looking to collaborate on this site
 - 📫 How to reach me address me on fb Jencent Dizon
 
